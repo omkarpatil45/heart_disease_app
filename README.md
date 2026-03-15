@@ -59,8 +59,12 @@ heart_disease_app/
 ├── frontend/
 │   └── app.py
 ├── model/
+    └── Heart_Model.ipynb
     └── heart_model.pkl
-    └── heart_disease.ipynb
-    └── hear_model_report.csv
+    └── model_comparison_report.csv
+
+
+
+
 
 
