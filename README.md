@@ -60,5 +60,7 @@ heart_disease_app/
 │   └── app.py
 ├── model/
     └── heart_model.pkl
+    └── heart_disease.ipynb
+    └── hear_model_report.csv
 
 
